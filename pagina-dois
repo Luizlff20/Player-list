@@ -1,0 +1,80 @@
+<DOCTYPE html>
+    <html lang="pt-br">
+
+    <head>
+        <meta charset="utf-8">
+        <title> Arquivo de audio</title>
+
+
+        <head>
+
+        <body style="background-color: black;">
+
+
+
+            <center>
+                <h1> Music Player</h1>
+
+                <div>
+
+                    <img src="![imagem-kirk-flanklin-2](https://user-images.githubusercontent.com/113390361/227068595-b6d7fbf5-6b48-47b9-be61-d95af2875942.jpg)"
+                        alt="300px " width="400px">
+                    <hr>
+
+                    <p style="color: aliceblue;">Kirk Franklin acaba de lançar seu novo clipe da funkeada canção “Love
+                        Theory”. Com muita dança, <br>
+                        groove e a presença marcante de seu time de vocais o clipe se desenrola em uma
+                        apresentação/culto<br>
+                        em uma igreja e um rapaz escutando a canção em um walkman cercado pelos dançarinos do
+                        cantor.<br><br>
+
+                        “Love Theory” aparece como o primeiro single do novo disco de Kirk Franklin, 12 vezes
+                        vencedor<br>
+                        do prêmio Grammy. Seu último disco, o “Lose My Religion” foi lançado em 2015 e desde então ele
+                        <br>
+                        tem se dedicado a seu selo, Fo Yo Soul Records, a parceria com nomes como Kanye West e Chance
+                        The<br>
+                        Rapper e o festival “Exodus Music & Arts Festival” lançado em parceria com a Live Nation
+                        Urban.<br>
+                    </p>
+
+                    <ol>
+
+                        <li><audio controls autoplay>
+
+
+                                <source
+                                    src="C:\Users\lipel\Saved Games\html/audio/Kirk Franklin - Love Theory (Official Music Video)(MP3_128K).mp3">
+                            </audio>
+
+                        </li>
+
+
+
+
+                        <video width="320" height="240" controls>
+                            <source
+                                src="https://user-images.githubusercontent.com/113390361/227069785-a6004d0b-3bda-4458-a1db-57d87aac04f1.mp4"
+                                type="video/mp4">
+                        </video>
+
+
+
+
+
+                    </ol>
+
+
+                </div>
+            </center>
+
+
+        </body>
+
+
+
+
+
+
+
+    </html>
