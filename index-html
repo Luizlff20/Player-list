@@ -1,0 +1,52 @@
+<DOCTYPE html>
+    <html lang="pt-br">
+
+    <head>
+        <meta charset="utf-8">
+        <title> Arquivo de audio</title>
+
+
+        <head>
+
+        <body style="background-color: black;">
+
+
+
+            <center>
+                <h1> Music Player</h1>
+
+                <div>
+
+                    <img src="https://mosaic.scdn.co/640/ab67616d00001e02017d9f9a4156acc0933f853dab67616d00001e022b6e67dfa9b5fe89d8611255ab67616d00001e0247e90024e7bf73357d2407c6ab67616d00001e02c0a16d4bdd9ff33486f86b07"
+                        alt="300px " width="400px">
+                    <hr>
+
+                    <dl style="color: aliceblue;">
+
+                        <h1 style="color: aliceblue;">Music list</h1>
+                        
+                            <li><a style="color: aliceblue;" href="file:///C:\Users\lipel\Saved Games\html/index (1).html">Kirk Franklin - Love Theory</a></li>
+                            <br>
+                            <li>Kirk Franklin - I smile</li>
+                            <br>
+                            <li>Kirk Franklin - My life in your hands</li>
+                            <br>
+                    
+
+
+                    </dl>
+
+
+                </div>
+            </center>
+
+
+        </body>
+
+
+
+
+
+
+
+    </html>
